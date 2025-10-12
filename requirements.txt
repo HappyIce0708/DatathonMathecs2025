@@ -1,0 +1,6 @@
+streamlit==1.50.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+pmdarima==2.0.4
+statsmodels==0.14.1
