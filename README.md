@@ -22,6 +22,26 @@ Malaysia faces a structural economic mismatch: median house prices have outpaced
 
 ---
 
+## 📂 Data Sources & Collection Methodology
+
+The dataset utilized in this project was compiled from trusted official institutional and governmental portals spanning from 2010 to 2024 to ensure high accuracy, consistency, and reliability. 
+
+### **Primary Data Sources:**
+1. **Department of Statistics Malaysia (DOSM):** 
+   * Sourced for median household income, poverty rates (`poverty_absolute`, `poverty_hardcore`, `poverty_relative`), literacy levels, and water access rates.
+   * Sourced annual population breakdowns by state.
+2. **National Property Information Centre (NAPIC):** 
+   * Sourced for residential property transaction data, annual/quarterly median house prices, housing stock distributions, and property types.
+3. **Malaysian Government Open Data Portal:** 
+   * Utilized for macroeconomic time-series data, including monthly Consumer Price Index (CPI) by state, annual Gross Domestic Product (GDP), and monthly lending rates.
+
+### **Data Processing & Handling:**
+* **Interpolation (CAGR):** Addressed missing values for survey years in median income and poverty indices by applying the Compound Annual Growth Rate (CAGR) formula to maintain time-series consistency.
+* **Index Normalization:** Applied **Min-Max scaling** normalization (0–1 scale) to process positive indicators (e.g., water access, literacy) and negative indicators (e.g., poverty rate) for the Living Quality Index (LQI).
+* **Aggregation:** Restructured quarterly primary housing and economic transactions into consolidated annual metrics to align with state-level identifiers.
+
+---
+
 ## 📊 Live Deliverables & Preview
 * **Interactive Web App:** [Streamlit Live Application](https://datathonmathecs2025.streamlit.app/)
 * **Business Intelligence Dashboard:** [Power BI Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiZjZhZDlhM2MtZmNkNC00MDk4LWFmNjgtM2UwYTUxYTYwNmRjIiwidCI6IjI4YzZkZjUyLWIzMTItNDQ0Mi1hZjU5LTIwNzI1OGJmNjRhYiIsImMiOjEwfQ%3D%3D)
