@@ -5,14 +5,15 @@ An end-to-end data science and business intelligence solution developed by **Tea
 ## 👥 Authors & Acknowledgments
 
 ### **Team Mathecs**
-**Thisant A/L Ragu**¹, **Jonathan Lau Lee Bin**², & **Madzna**³
+* **Thisant A/L Ragu**<sup>1</sup>
+* **Jonathan Lau Lee Bin**<sup>2</sup>
+* **Madzna**<sup>3</sup>
 
-¹𝄈³ *Programme of Mathematics with Economics, Faculty of Science and Technology, Universiti Malaysia Sabah*
+<sup>1, 2, 3</sup> *Programme of Mathematics with Economics, Faculty of Science and Technology, Universiti Malaysia Sabah*
 
 ### **Academic Guidance**
 * **Supervisor:** Associate Professor Dr. Siti Rahayu Mohd. Hashim
   * *Programme of Mathematics with Economics, Faculty of Science and Technology, Universiti Malaysia Sabah*
----
 
 ## 🔍 Project Overview
 Malaysia faces a structural economic mismatch: median house prices have outpaced household income growth, pushing national median multiples well above affordable benchmarks. To address this, our team developed a dual-objective framework:
