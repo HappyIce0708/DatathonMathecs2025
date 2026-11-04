@@ -2,6 +2,16 @@
 
 An end-to-end data science and business intelligence solution developed by **Team Mathecs** for the **DOSM Datathon 2025**, investigating Malaysia’s housing affordability crisis, regional living quality disparities, and predictive modeling for future property prices.
 
+## 👥 Authors & Acknowledgments
+
+### **Team Mathecs**
+**Thisant A/L Ragu**¹, **Jonathan Lau Lee Bin**², & **Madzna**³
+
+¹𝄈³ *Programme of Mathematics with Economics, Faculty of Science and Technology, Universiti Malaysia Sabah*
+
+### **Academic Guidance**
+* **Supervisor:** Associate Professor Dr. Siti Rahayu Mohd. Hashim
+  * *Programme of Mathematics with Economics, Faculty of Science and Technology, Universiti Malaysia Sabah*
 ---
 
 ## 🔍 Project Overview
