@@ -21,7 +21,7 @@ Malaysia faces a structural economic mismatch: median house prices have outpaced
 
 ## 📊 Live Deliverables & Preview
 * **Interactive Web App:** [Streamlit Live Application](https://datathonmathecs2025.streamlit.app/)
-* **Business Intelligence Dashboard:** [Power BI Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiZjZhZDIhM2MtZmNzMnNC00MDk4LWFlZmNlMjUwUyTYXTYWNmRjliwidCl6Ij4yZk4zKjU5LWIwMi00MjU5LTU1LTIwMjFjOGJmN0JjYiIsImMiOjEwMi5-ZU5LTQ0Mi0zUjUtLTZnNS1lbG0zNjFjOGJnNmRyYjlsbWMiOjEwMi5jOjEwMiJ9)
+* **Business Intelligence Dashboard:** [Power BI Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiZjZhZDlhM2MtZmNkNC00MDk4LWFmNjgtM2UwYTUxYTYwNmRjIiwidCI6IjI4YzZkZjUyLWIzMTItNDQ0Mi1hZjU5LTIwNzI1OGJmNjRhYiIsImMiOjEwfQ%3D%3D)
 
 <p align="center">
   <img src="output/Datathon 2025 Streamlit Layout.png" alt="Streamlit App Preview" width="80%"/>
