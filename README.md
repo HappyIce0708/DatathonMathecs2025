@@ -51,6 +51,12 @@ The dataset utilized in this project was compiled from trusted official institut
 </p>
 
 ---
+### 📊 Feature Importance & Predictive Insights
+To ensure model transparency and interpretability, permutation feature importance was evaluated to identify the macroeconomic drivers most influential in determining median house prices across Malaysian states:
+* **Household Income & GDP:** Emerge as dominant predictors, reflecting that regional purchasing power and broader economic output dictate housing valuation ceilings.
+* **CPI (Consumer Price Index) & Population:** Act as critical structural indicators capturing inflation pressures and regional demographic demand concentrations (urban migration hotspots).
+* **Lending Rates:** Serve as a monetary policy constraint, directly affecting mortgage servicing capacity and buyer affordability limits.
+---
 
 ## 🗂️ Repository Structure
 ```text
