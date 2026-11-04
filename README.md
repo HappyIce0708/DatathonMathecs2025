@@ -56,6 +56,21 @@ To ensure model transparency and interpretability, permutation feature importanc
 * **Household Income & GDP:** Emerge as dominant predictors, reflecting that regional purchasing power and broader economic output dictate housing valuation ceilings.
 * **CPI (Consumer Price Index) & Population:** Act as critical structural indicators capturing inflation pressures and regional demographic demand concentrations (urban migration hotspots).
 * **Lending Rates:** Serve as a monetary policy constraint, directly affecting mortgage servicing capacity and buyer affordability limits.
+
+---
+## 💡 Key Analytical Findings & Insights
+
+### 1. The Affordability Challenge (HAI)
+- **The Income-Price Gap:** Between 2012 and 2022, Malaysian house prices rose by 7.5% to reach an average of RM350,000, while annual salaries grew by only 5.75% to RM76,506. This drove the national median multiple to 4.6, exceeding Bank Negara's affordability benchmark of 3.0.
+- **Severe Market Distribution:** Granular analysis using the Housing Affordability Index reveals that **42.73% of housing units** fall into the *"Severely Unaffordable"* category, highlighting a growing structural challenge for homeownership.
+
+### 2. Regional Living Quality Standards (LQI)
+- **Infrastructure Baseline:** Malaysia achieved a national Living Quality Index (LQI) average score of **0.76**, reflecting strong baseline access to clean water, education, and sanitation services.
+- **Regional Disparities:** While national standards remain robust, the multi-dimensional index effectively highlights localized pockets requiring targeted public housing and infrastructure support.
+
+### 3. Predictive Drivers & Feature Importance
+- **Economic Determinants:** Machine learning feature importance highlights **Household Income** and **GDP** as the most dominant predictors dictating state median house prices.
+- **Macroeconomic Sensitivity:** **CPI (Consumer Price Index)** and **Population Growth** act as primary demand-pull indicators, while **Lending Rates** serve as direct regulatory constraints on mortgage accessibility.
 ---
 
 ## 🗂️ Repository Structure
