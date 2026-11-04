@@ -64,3 +64,12 @@ DatathonMathecs2025/
 ├── requirements.txt                     # Python package dependencies
 ├── runtime.txt                          # Python version specification for deployment
 └── README.md                            # Project documentation and portfolio showcase
+
+## ⚙️ Explanation of Key Files
+
+* **`num2.py` (Core Application Script):** 
+  This is the primary Python script that drives the interactive Streamlit web application. It handles dataset ingestion from the `data/` folder, user inputs (such as state selection and macro feature adjustments), and feature scaling. It integrates a hybrid approach combining **ARIMA** for time-series trend tracking with machine learning models (**Random Forest**, **Linear Regression**) to calculate residual adjustments, evaluate error metrics (RMSE/MSE), and visualize future property trends.
+* **`requirements.txt` (Dependency Management):** 
+  This file explicitly lists all external Python libraries and exact version pins (e.g., `streamlit`, `pandas`, `scikit-learn`, `pmdarima`, `statsmodels`) required to execute the codebase. It ensures complete reproducibility so that anyone reviewing your repository can install all required packages instantly with a single command (`pip install -r requirements.txt`).
+* **`runtime.txt` (Environment Configuration):** 
+  A lightweight configuration file that specifies the precise Python version (`python-3.10`) required by cloud hosting platforms (such as Streamlit Community Cloud) to build and deploy the application environment successfully.
